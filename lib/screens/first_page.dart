@@ -118,9 +118,9 @@ class _FirstPageState extends State<FirstPage> {
           Text(
             resultText,
             style: TextStyle(
-              fontSize: 25.0,
-              fontWeight: FontWeight.bold,
-            ),
+                fontSize: 25.0,
+                fontWeight: FontWeight.bold,
+                color: rightShapeColor),
           ),
           SizedBox(
             height: 40.0,
